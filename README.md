@@ -10,3 +10,4 @@ with Pytorch. The model is then saved locally and we have a final function which
 The dataset that is included in the repository is very small since it was created using the free version of X's API, for the creation of a meaningfull dataset it is recomended to 
 subscribe to the paid version of the service. Keep in mind that both an OpenAI key and an X API bearer token are required to run the first notebook.
 
+The original X data is saved in tweets.csv and the finetunning data set is analsisDeSentimientos_day_month.csv
